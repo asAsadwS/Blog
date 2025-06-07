@@ -1,0 +1,4 @@
+baseURL = 'https://asAsadwS.github.io/'
+languageCode = 'zh-CN'
+title = 'asAsadwS`s Blog'
+theme = 're-terminal'
